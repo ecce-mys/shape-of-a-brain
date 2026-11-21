@@ -13,7 +13,7 @@ This notebook works through that question one piece at a time, from the drum to 
 | # | Entry | Question | Status |
 |---|---|---|---|
 | 01 | [The drum](entries/01-drum/) | What *can* you hear from a spectrum? (area, perimeter, not shape) | started |
-| 02 | Where EEG comes from | How do neurons make a voltage you can measure on the scalp? | |
+| 02 | [Where EEG comes from](entries/02-eeg-source/) | How do neurons make a voltage you can measure on the scalp? | started |
 | 03 | The forward model | Given sources, what does the scalp see? (lead field) | |
 | 04 | The inverse problem | Why there are infinitely many answers, and how minimum-norm picks one | |
 | 05 | Phase locking | When do two signals "move together"? (PLV) | |
